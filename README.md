@@ -52,15 +52,11 @@
 
  ![Main Page](Sample_Images/Pop_Up.png)
 
-4. **Edit the selected Task**
-
- ![Main Page](Sample_Images/Edit_Task.png)
-
-5. **You can also Complete the Task(Note : This Operation Deletes the Task)**
+4. **You can also Complete the Task(Note : This Operation Deletes the Task)**
 
  ![Main Page](Sample_Images/Complete_Task.png)
  
- 6. **Huray! You've Completed the Task**
+ 5. **Huray! You've Completed the Task**
 
  ![Main Page](Sample_Images/Final_Screen.png)
  ## Contributing
