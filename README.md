@@ -38,10 +38,31 @@
  - **Remove Task**: Select a task and click "Remove" to delete it.
  - **Search Tasks**: Use the search bar to find tasks quickly.
 
- ## Screenshot
+ ##Some Screenshots
 
- #![DoneDesk Screenshot](docs/screenshot.png)
+1. **Main Form of the Application**
 
+ ![Main Page](Sample_Images/Main_Page.png)
+
+2. **Add New Tasks**
+
+ ![Main Page](Sample_Images/Add_Tasks.png)
+
+3. **Click Edit And Complete Task**
+
+ ![Main Page](Sample_Images/Pop_Up.png)
+
+4. **Edit the selected Task**
+
+ ![Main Page](Sample_Images/Edit_Task.png)
+
+5. **You can also Complete the Task(Note : This Operation Deletes the Task)**
+
+ ![Main Page](Sample_Images/Complete_Task.png)
+ 
+ 6. **Huray! You've Completed the Task**
+
+ ![Main Page](Sample_Images/Final_Screen.png)
  ## Contributing
 
  1. **Fork the Repository**
